@@ -4,6 +4,8 @@
 
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. It's a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. This implementation allows you to encrypt and decrypt messages using a specified key.
 
+Chi Squared Statistics
+
 ## Usage
 
 This section explains how to use the Caesar Cipher code to encrypt and decrypt messages.
